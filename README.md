@@ -9,7 +9,7 @@ Não garanto que essa é a melhor implementação, nem que o meu código esteja 
 
 ## Bibliotecas utilizadas 
 * [requests](https://pypi.org/project/requests/)
-* [concurrent](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
+* [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
 ## Instalação / Utilização
 `$ git clone https://github.com/gustavokuhl/ThreadRequester.Py.git`<br/>
